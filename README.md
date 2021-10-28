@@ -1,4 +1,4 @@
-# polkadot-substrate-dapp-test
+# polkadot substrate dapp test
 
 Developing a dapp for polkadot
 
